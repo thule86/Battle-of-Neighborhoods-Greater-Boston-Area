@@ -1,4 +1,4 @@
-# THE BATTLE OF NEIGHBORHOOD - GREATER BOSTON AREA
+# THE BATTLE OF NEIGHBORHOODS - GREATER BOSTON AREA
 
 The United States has been the destination for immigrants around the world. More than 100
 years ago, Chinese Americans settled in Boston, Massachusetts and built a community in
