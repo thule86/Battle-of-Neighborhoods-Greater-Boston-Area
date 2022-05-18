@@ -12,7 +12,9 @@ Sklearn
 
 ## FILES
 [Link to Notebook](https://github.com/thule86/Battle-of-Neighborhoods-Greater-Boston-Area/blob/main/Battle%20of%20Neighborhoods-%20Boston%20(1).ipynb)
-[Massachusetts Data](https://simplemaps.com/data/us-cities)
+
+[Massachusetts Longtitude/Latitude Data](https://simplemaps.com/data/us-cities)
+
 [Massachusetts Zipcode](https://www.downloadexcelfiles.com/us_en/download-list-us-zip-codes-massachusetts-state#Y QNvVo5Kg2w)
 
 ## PROJECT MOTIVATION 
