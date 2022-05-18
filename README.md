@@ -1,14 +1,13 @@
 # THE BATTLE OF NEIGHBORHOODS - GREATER BOSTON AREA
 
-NumPy
-Pandas
-Seaborn
-Matplotlib
-BeautifulSoup
-folium
-Sklearn
-
 ## INSTALLATION
+* NumPy
+* Pandas
+* Seaborn
+* Matplotlib
+* BeautifulSoup
+* Folium
+* Sklearn
 
 ## FILES
 [Link to Notebook](https://github.com/thule86/Battle-of-Neighborhoods-Greater-Boston-Area/blob/main/Battle%20of%20Neighborhoods-%20Boston%20(1).ipynb)
