@@ -29,13 +29,6 @@ Kungfu tea,... it is inevitable that there is a growing demand for this beverage
 We look for alocation which is closer to a lot of asian restaurants, but also the neighborhood should not be
 crowded with bubble tea shops to avoid competition.
 
-Greater Boston Area was chosen in this project due to the following reasons:
-- Sixteen cities and towns in Greater Boston in 2016 had at least 4,000 Asian Americans.
-Many asian american are still living close to the suburban Greater Boston Area.
-- Massachusetts is a destination for international students, in which China and India were
-the leading countries of origin for international students. Therefore, there is an
-ever-growing demand for asian restaurants.
-
 Obviously, this project would be useful for investors who are interested in opening a bubble tea
 shop, or asian coffee shop, or even a particular asian restaurant such as vietnamese restaurant,
 thai restaurant, etc. Not only so, international students or travellers will be interested in this
