@@ -20,6 +20,6 @@ shop, or asian coffee shop, or even a particular asian restaurant such as vietna
 thai restaurant, etc. Not only so, international students or travellers will be interested in this
 analysis if they want to find a neighborhood full of asian food.
 
-[Link to Notebook](https://github.com/thule86/Battle-of-Neighborhoods-Greater-Boston-Area/blob/main/Battle%20of%20Neighborhoods-%20Boston%20(1).ipynb)
+[Notebook contains analysis](https://github.com/thule86/Battle-of-Neighborhoods-Greater-Boston-Area/blob/main/Battle%20of%20Neighborhoods-%20Boston%20(1).ipynb)
 
 [Link to Blogspot](https://medium.com/@tle28/battle-of-neighborhoods-greater-boston-area-1c3738b07226)
