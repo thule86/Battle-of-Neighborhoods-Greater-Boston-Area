@@ -15,7 +15,7 @@ Sklearn
 
 [Massachusetts Longtitude/Latitude Data](https://simplemaps.com/data/us-cities)
 
-[Massachusetts Zipcode](https://www.downloadexcelfiles.com/us_en/download-list-us-zip-codes-massachusetts-state#Y QNvVo5Kg2w)
+[Massachusetts Zipcode](https://www.downloadexcelfiles.com/us_en/download-list-us-zip-codes-massachusetts-state#YQNvVo5Kg2w)
 
 ## PROJECT MOTIVATION 
 
