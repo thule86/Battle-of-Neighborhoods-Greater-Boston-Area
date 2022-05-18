@@ -1,11 +1,31 @@
 # THE BATTLE OF NEIGHBORHOODS - GREATER BOSTON AREA
 
-## Motivation of the project
+NumPy
+Pandas
+Seaborn
+Matplotlib
+BeautifulSoup
+folium
+Sklearn
+
+## INSTALLATION
+
+## FILES
+[Link to Notebook](https://github.com/thule86/Battle-of-Neighborhoods-Greater-Boston-Area/blob/main/Battle%20of%20Neighborhoods-%20Boston%20(1).ipynb)
+[Massachusetts Data](https://simplemaps.com/data/us-cities)
+[Massachusetts Zipcode](https://www.downloadexcelfiles.com/us_en/download-list-us-zip-codes-massachusetts-state#Y QNvVo5Kg2w)
+
+## PROJECT MOTIVATION 
 
 In this project, we will use Foursquare API to analyze different neighborhoods and find a good
 location to open a bubble tea business. With major bubble tea franchises such as GongCha,
-Kungfu tea,... it is inevitable that there is a growing demand for this beverage. We look for a
-location which is closer to a lot of asian restaurants, but also the neighborhood should not be
+Kungfu tea,... it is inevitable that there is a growing demand for this beverage.
+
+1. Which area has the most condensed asian restaurant?
+2. Among the most condensed asian restaurant, which one has fewer bubble tea stores?
+3. Which area is best suitable for opening a bubble tea store?
+
+We look for alocation which is closer to a lot of asian restaurants, but also the neighborhood should not be
 crowded with bubble tea shops to avoid competition.
 
 Greater Boston Area was chosen in this project due to the following reasons:
@@ -20,6 +40,9 @@ shop, or asian coffee shop, or even a particular asian restaurant such as vietna
 thai restaurant, etc. Not only so, international students or travellers will be interested in this
 analysis if they want to find a neighborhood full of asian food.
 
-[Link to Notebook](https://github.com/thule86/Battle-of-Neighborhoods-Greater-Boston-Area/blob/main/Battle%20of%20Neighborhoods-%20Boston%20(1).ipynb)
 
-[Link to Blogspot](https://medium.com/@tle28/battle-of-neighborhoods-greater-boston-area-1c3738b07226)
+## MEDIUM BLOG SPOT
+The main findings of the code can be found at the Medium Blog post available from [HERE](https://medium.com/@tle28/battle-of-neighborhoods-greater-boston-area-1c3738b07226)
+
+## ACKNOLEDGEMENTS
+Acknowledgement should go to IBM Data Science certficate for excellent Web Scrapping tutorial.
